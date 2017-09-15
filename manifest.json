@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name" : "PageFontStyle Extension",
+    "version" : "1.0",
+    "description" : "Chrome font style ",
+    "icons" : {
+        "64" : "icon64.png"
+    },
+    "page_action" : {
+        "default_icon" : "icon64.png",
+        "default_popup" : "popup.html",
+        "default_title" : "PageFontStyle"
+    }
+
+}
